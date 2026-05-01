@@ -99,18 +99,7 @@ I'm a passionate Full Stack Developer and Computer Science student at **Geetha J
 > A Java-based project showcasing object-oriented programming concepts.  
 > **Tech Stack:** Java
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vigneshShivanoor&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshShivanoor&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshShivanoor&theme=tokyonight&hide_border=true" width="60%" />
-</p>
 
 ---
 
